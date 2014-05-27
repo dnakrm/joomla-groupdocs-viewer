@@ -9,4 +9,4 @@ With GroupDocs Viewer plugin for Joomla you can easily [view PDF, Word, Excel an
 * [Download Viewer plugin package here](https://github.com/groupdocs/joomla-groupdocs-viewer)
 * [See source code for GroupDocs Viewer plugin for Joomla](https://github.com/groupdocs/joomla-groupdocs-viewer-source)
 
-###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace/).
+###Created by [GroupDocs Marketplace Team](http://groupdocs.com/marketplace).
